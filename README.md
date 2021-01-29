@@ -35,7 +35,7 @@ EFI Z390i Aourus WiFi(ac) + Intel I7 8700K with OpenCore bootloader
 
 ## Modded GUI Opencore by HakintoshLife
 
-![GUIOC](./screenshot/gui.jpg)
+![GUIOC](./screenshot/gui.png)
 
 ### What works and What doesn't or WIP:
 
