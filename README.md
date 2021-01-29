@@ -8,7 +8,7 @@
 
 EFI Z390i Aourus WiFi(ac) + Intel I7 8700K with OpenCore bootloader
 
-![descrizione](./screenshot/pc.jpg)
+![descrizione](./screenshot/pc.png)
 
 
 ### Computer Spec:
