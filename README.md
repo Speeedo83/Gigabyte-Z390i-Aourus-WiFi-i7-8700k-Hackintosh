@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Facebook-HackintoshLifeIT-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/hackintoshlife/)
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
-# Z390i Aourus WiFi(ac) + Intel I7 8700K + 32G DDR$ 3200 Mhz + RX 5600xt Sapphire
+# Z390i Aourus WiFi(ac) + Intel I7 8700K + 32G DDR4 3200 Mhz + RX 5600xt Sapphire
 
 EFI Z390i Aourus WiFi(ac) + Intel I7 8700K with OpenCore bootloader
 
@@ -33,7 +33,7 @@ EFI Z390i Aourus WiFi(ac) + Intel I7 8700K with OpenCore bootloader
 
 ![infobigsur](./screenshot/infomac.png)
 
-## Modded GUI Opencore by HakintoshLife
+## Modded GUI Opencore (0.6.5) by HakintoshLife
 
 ![GUIOC](./screenshot/gui.png)
 
