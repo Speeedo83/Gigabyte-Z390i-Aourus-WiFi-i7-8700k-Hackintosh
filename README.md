@@ -1,1 +1,0 @@
-# Gigabyte-Z390i-Aourus-WiFi-i7-8700k-Hackintosh
