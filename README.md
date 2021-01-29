@@ -25,7 +25,7 @@ EFI Z390i Aourus WiFi(ac) + Intel I7 8700K with OpenCore bootloader
 | SSD Sata         | Samsung SSD QVO  1TB (Mac Storage) |
 | NVMe             | SPCC Silicon Power 512G (Windows)  |
 | SSD Sata         | SPCC Silicon Power 1TB (WinStorage)|
-| SmBios           | MacBookPro 19,1                    |
+| SmBios           | iMac 19,1                          |
 | BootLoader       | OpenCore 0.6.5                     |
 | macOS            | Big Sur 11.1                       |
 
