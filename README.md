@@ -49,7 +49,7 @@ EFI Z390i Aourus WiFi(ac) + Intel I7 8700K with OpenCore bootloader
 - [x] Wi-Fi and Bluetooth Intel work with OpenIntelWireless/itlwm
 - [x] Controller SATA III
 - [x] Controller NVME PciE Gen3x4 
-- [x] All Sensors CPU, IGPU, BATTERY, NVME, SATA, FAN
+- [x] All Sensors CPU, IGPU, GPU, NVME, SATA, FAN
 - [x] Apple VTD
 - [x] NVRAM
 - [x] Recovery (macOS) boot from OpenCore
